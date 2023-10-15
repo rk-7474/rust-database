@@ -1,0 +1,7 @@
+{
+    "auth": {
+        "id": "int",
+        "username": "string",
+        "password": "string"
+    }
+}
